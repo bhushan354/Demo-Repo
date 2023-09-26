@@ -1,12 +1,8 @@
-import React from 'react'
-import "./App.css"
+import React from 'react';
+import "./App.css";
 
 const App = () => {
-  return (
-    <>
-      <h1>Hello Redux Bhus</h1>
-    </>
-  )
-}
+  return <h2>Redux Toolkit</h2>;
+};
 
-export default App
+export default App;
